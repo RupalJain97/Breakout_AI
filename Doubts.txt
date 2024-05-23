@@ -1,0 +1,40 @@
+1. report
+2. Paddle not moving in Approximate QL
+3. What kind of analysis and testing is required
+
+
+collision with paddle and ball
+
+
+alpha * d^I , e * d^I
+
+e = 0.5 * ____ = 0.0001
+
+
+start
+0.1
+0.05
+0.01
+0.005
+
+stop
+0.001
+0.0005
+0.0001
+0.00005
+
+
+
+Appro:
+shorter learning time
+plot the every 25 episodes wuth avr performance 
+
+30 time of 1000 
+
+
+move the paddle just under the ball everytime
+plot
+report
+GitHub
+
+

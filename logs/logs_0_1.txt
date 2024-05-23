@@ -1,0 +1,577 @@
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.9, Min Epsilon: 0.1, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9997803016794777
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
+Episode: 500, Average Reward: 486.856, Average Steps: 1058.188
+Episode: 1000, Average Reward: 476.717, Average Steps: 1038.106
+Episode: 1500, Average Reward: 483.165, Average Steps: 1050.87
+Episode: 2000, Average Reward: 450.804, Average Steps: 986.956
+Episode: 2500, Average Reward: 446.109, Average Steps: 977.678
+Episode: 3000, Average Reward: 435.003, Average Steps: 955.746
+Episode: 3500, Average Reward: 429.479, Average Steps: 944.822
+Episode: 4000, Average Reward: 442.432, Average Steps: 970.408
+Episode: 4500, Average Reward: 433.167, Average Steps: 952.114
+Episode: 5000, Average Reward: 432.267, Average Steps: 950.342
+Episode: 5500, Average Reward: 429.501, Average Steps: 944.862
+Episode: 6000, Average Reward: 429.484, Average Steps: 944.832
+Episode: 6500, Average Reward: 430.428, Average Steps: 946.708
+Episode: 7000, Average Reward: 434.237, Average Steps: 954.262
+Episode: 7500, Average Reward: 445.391, Average Steps: 976.29
+Episode: 8000, Average Reward: 434.225, Average Steps: 954.238
+Episode: 8500, Average Reward: 442.571, Average Steps: 970.75
+Episode: 9000, Average Reward: 457.573, Average Steps: 1000.35
+Episode: 9500, Average Reward: 474.472, Average Steps: 1033.784
+Training Finished... 20  **** BAD
+
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.9, Min Epsilon: 0.05, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9997110045914307
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
+Episode: 500, Average Reward: 502.681, Average Steps: 1089.406
+Episode: 1000, Average Reward: 455.329, Average Steps: 995.906
+Episode: 1500, Average Reward: 451.673, Average Steps: 988.686
+Episode: 2000, Average Reward: 454.534, Average Steps: 994.388
+Episode: 2500, Average Reward: 440.597, Average Steps: 966.806
+Episode: 3000, Average Reward: 442.411, Average Steps: 970.386
+Episode: 3500, Average Reward: 434.107, Average Steps: 953.97
+Episode: 4000, Average Reward: 437.932, Average Steps: 961.576
+Episode: 4500, Average Reward: 439.696, Average Steps: 965.048
+Episode: 5000, Average Reward: 438.856, Average Steps: 963.324
+Episode: 5500, Average Reward: 436.036, Average Steps: 957.776
+Episode: 6000, Average Reward: 436.154, Average Steps: 958.048
+Episode: 6500, Average Reward: 441.772, Average Steps: 969.192
+Episode: 7000, Average Reward: 449.213, Average Steps: 983.926
+Episode: 7500, Average Reward: 451.994, Average Steps: 989.436
+Episode: 8000, Average Reward: 466.886, Average Steps: 1018.924
+Episode: 8500, Average Reward: 463.267, Average Steps: 1011.79
+Episode: 9000, Average Reward: 456.624, Average Steps: 998.564
+Episode: 9500, Average Reward: 459.394, Average Steps: 1004.084
+Training Finished... 20  **** BAD
+
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.9, Min Epsilon: 0.01, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9995501202592184
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
+Episode: 500, Average Reward: 487.747, Average Steps: 1059.918
+Episode: 1000, Average Reward: 470.17, Average Steps: 1025.204
+Episode: 1500, Average Reward: 445.24, Average Steps: 975.948
+Episode: 2000, Average Reward: 448.939, Average Steps: 983.234
+Episode: 2500, Average Reward: 434.119, Average Steps: 953.978
+Episode: 3000, Average Reward: 441.639, Average Steps: 968.858
+Episode: 3500, Average Reward: 432.338, Average Steps: 950.48
+Episode: 4000, Average Reward: 450.124, Average Steps: 985.676
+Episode: 4500, Average Reward: 466.959, Average Steps: 1018.91
+Episode: 5000, Average Reward: 466.935, Average Steps: 1018.914
+Episode: 5500, Average Reward: 459.358, Average Steps: 1003.88
+Episode: 6000, Average Reward: 484.679, Average Steps: 1054.146
+Episode: 6500, Average Reward: 498.523, Average Steps: 1081.51
+Episode: 7000, Average Reward: 484.667, Average Steps: 1054.126
+Episode: 7500, Average Reward: 479.905, Average Steps: 1044.642
+Episode: 8000, Average Reward: 495.857, Average Steps: 1076.122
+Episode: 8500, Average Reward: 535.763, Average Steps: 1155.022
+Episode: 9000, Average Reward: 544.939, Average Steps: 1173.13
+Episode: 9500, Average Reward: 508.774, Average Steps: 1101.78
+Training Finished... 20   **** BETTER
+
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.9, Min Epsilon: 0.005, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9994808391255787
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
+Episode: 500, Average Reward: 480.499, Average Steps: 1045.614
+Episode: 1000, Average Reward: 455.361, Average Steps: 995.946
+Episode: 1500, Average Reward: 438.749, Average Steps: 963.118
+Episode: 2000, Average Reward: 433.188, Average Steps: 952.168
+Episode: 2500, Average Reward: 436.929, Average Steps: 959.546
+Episode: 3000, Average Reward: 431.383, Average Steps: 948.566
+Episode: 3500, Average Reward: 447.285, Average Steps: 980.066
+Episode: 4000, Average Reward: 456.673, Average Steps: 998.706
+Episode: 4500, Average Reward: 452.805, Average Steps: 990.974
+Episode: 5000, Average Reward: 473.473, Average Steps: 1031.914
+Episode: 5500, Average Reward: 497.659, Average Steps: 1079.802
+Episode: 6000, Average Reward: 541.512, Average Steps: 1166.572
+Episode: 6500, Average Reward: 502.033, Average Steps: 1088.442
+Episode: 7000, Average Reward: 619.442, Average Steps: 1320.944
+Episode: 7500, Average Reward: 524.63, Average Steps: 1133.26
+Episode: 8000, Average Reward: 545.947, Average Steps: 1175.438
+Episode: 8500, Average Reward: 580.222, Average Steps: 1243.288
+Episode: 9000, Average Reward: 599.881, Average Steps: 1281.894
+Episode: 9500, Average Reward: 529.358, Average Steps: 1142.64
+Training Finished... 20  **** BETTER
+
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.9, Min Epsilon: 0.001, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9993199918340884
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
+Episode: 500, Average Reward: 493.434, Average Steps: 1071.16
+Episode: 1000, Average Reward: 449.922, Average Steps: 985.184
+Episode: 1500, Average Reward: 445.23, Average Steps: 975.956
+Episode: 2000, Average Reward: 431.42, Average Steps: 948.652
+Episode: 2500, Average Reward: 437.9, Average Steps: 961.484
+Episode: 3000, Average Reward: 449.233, Average Steps: 983.946
+Episode: 3500, Average Reward: 465.046, Average Steps: 1015.268
+Episode: 4000, Average Reward: 477.99, Average Steps: 1040.88
+Episode: 4500, Average Reward: 499.225, Average Steps: 1082.858
+Episode: 5000, Average Reward: 505.87, Average Steps: 1096.056
+Episode: 5500, Average Reward: 558.682, Average Steps: 1200.516
+Episode: 6000, Average Reward: 545.489, Average Steps: 1174.322
+Episode: 6500, Average Reward: 629.568, Average Steps: 1340.484
+Episode: 7000, Average Reward: 591.731, Average Steps: 1265.846
+Episode: 7500, Average Reward: 634.135, Average Steps: 1349.634
+Episode: 8000, Average Reward: 598.85, Average Steps: 1279.484
+Episode: 8500, Average Reward: 708.761, Average Steps: 1496.938
+Episode: 9000, Average Reward: 736.211, Average Steps: 1550.614
+Episode: 9500, Average Reward: 688.356, Average Steps: 1456.744
+Training Finished... 20  **** GOOD
+
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.8, Min Epsilon: 0.1, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9997920774647191
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
+Episode: 500, Average Reward: 461.855, Average Steps: 1008.814
+Episode: 1000, Average Reward: 469.233, Average Steps: 1023.382
+Episode: 1500, Average Reward: 449.803, Average Steps: 984.99
+Episode: 2000, Average Reward: 446.247, Average Steps: 977.978
+Episode: 2500, Average Reward: 449.798, Average Steps: 984.968
+Episode: 3000, Average Reward: 449.885, Average Steps: 985.13
+Episode: 3500, Average Reward: 441.508, Average Steps: 968.612
+Episode: 4000, Average Reward: 447.23, Average Steps: 979.904
+Episode: 4500, Average Reward: 445.267, Average Steps: 976.074
+Episode: 5000, Average Reward: 438.839, Average Steps: 963.338
+Episode: 5500, Average Reward: 441.53, Average Steps: 968.644
+Episode: 6000, Average Reward: 439.757, Average Steps: 965.146
+Episode: 6500, Average Reward: 435.087, Average Steps: 955.902
+Episode: 7000, Average Reward: 434.174, Average Steps: 954.128
+Episode: 7500, Average Reward: 433.212, Average Steps: 952.208
+Episode: 8000, Average Reward: 433.231, Average Steps: 952.25
+Episode: 8500, Average Reward: 463.082, Average Steps: 1011.264
+Episode: 9000, Average Reward: 452.871, Average Steps: 991.082
+Episode: 9500, Average Reward: 458.52, Average Steps: 1002.304
+Training Finished... 20  **** BAD
+
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.8, Min Epsilon: 0.05, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9997227795604651
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
+Episode: 500, Average Reward: 497.094, Average Steps: 1078.428
+Episode: 1000, Average Reward: 456.354, Average Steps: 997.944
+Episode: 1500, Average Reward: 435.048, Average Steps: 955.816
+Episode: 2000, Average Reward: 443.395, Average Steps: 972.294
+Episode: 2500, Average Reward: 446.203, Average Steps: 977.906
+Episode: 3000, Average Reward: 439.702, Average Steps: 965.04
+Episode: 3500, Average Reward: 445.277, Average Steps: 976.038
+Episode: 4000, Average Reward: 431.353, Average Steps: 948.534
+Episode: 4500, Average Reward: 440.72, Average Steps: 967.012
+Episode: 5000, Average Reward: 431.396, Average Steps: 948.6
+Episode: 5500, Average Reward: 436.094, Average Steps: 957.936
+Episode: 6000, Average Reward: 446.388, Average Steps: 978.328
+Episode: 6500, Average Reward: 445.48, Average Steps: 976.492
+Episode: 7000, Average Reward: 460.442, Average Steps: 1006.1
+Episode: 7500, Average Reward: 467.969, Average Steps: 1021.006
+Episode: 8000, Average Reward: 478.088, Average Steps: 1041.044
+Episode: 8500, Average Reward: 472.504, Average Steps: 1029.9
+Episode: 9000, Average Reward: 448.183, Average Steps: 981.874
+Episode: 9500, Average Reward: 461.321, Average Steps: 1007.922
+Training Finished... 20  **** BAD
+
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.8, Min Epsilon: 0.01, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9995618933332973
+Episode: 0, Average Reward: 2.702, Average Steps: 5.524
+Episode: 500, Average Reward: 493.446, Average Steps: 1071.152
+Episode: 1000, Average Reward: 458.223, Average Steps: 1001.614
+Episode: 1500, Average Reward: 437.883, Average Steps: 961.414
+Episode: 2000, Average Reward: 433.196, Average Steps: 952.168
+Episode: 2500, Average Reward: 437.015, Average Steps: 959.702
+Episode: 3000, Average Reward: 445.521, Average Steps: 976.55
+Episode: 3500, Average Reward: 437.044, Average Steps: 959.772
+Episode: 4000, Average Reward: 444.54, Average Steps: 974.664
+Episode: 4500, Average Reward: 475.319, Average Steps: 1035.606
+Episode: 5000, Average Reward: 480.091, Average Steps: 1045.106
+Episode: 5500, Average Reward: 486.444, Average Steps: 1057.572
+Episode: 6000, Average Reward: 473.434, Average Steps: 1031.764
+Episode: 6500, Average Reward: 478.079, Average Steps: 1040.946
+Episode: 7000, Average Reward: 490.894, Average Steps: 1066.4
+Episode: 7500, Average Reward: 517.064, Average Steps: 1118.08
+Episode: 8000, Average Reward: 501.119, Average Steps: 1086.574
+Episode: 8500, Average Reward: 574.882, Average Steps: 1232.568
+Episode: 9000, Average Reward: 617.122, Average Steps: 1316.308
+Episode: 9500, Average Reward: 494.574, Average Steps: 1073.54
+Training Finished... 20  **** BAD
+
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.8, Min Epsilon: 0.005, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9994926113836384
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
+Episode: 500, Average Reward: 485.86, Average Steps: 1056.216
+Episode: 1000, Average Reward: 438.735, Average Steps: 963.082
+Episode: 1500, Average Reward: 424.842, Average Steps: 935.644
+Episode: 2000, Average Reward: 423.0, Average Steps: 932.0
+Episode: 2500, Average Reward: 423.0, Average Steps: 932.0
+Episode: 3000, Average Reward: 423.0, Average Steps: 932.0
+Episode: 3500, Average Reward: 423.0, Average Steps: 932.0
+Episode: 4000, Average Reward: 423.0, Average Steps: 932.0
+Episode: 4500, Average Reward: 423.0, Average Steps: 932.0
+Episode: 5000, Average Reward: 423.0, Average Steps: 932.0
+Episode: 5500, Average Reward: 431.382, Average Steps: 948.576
+Episode: 6000, Average Reward: 429.573, Average Steps: 944.998
+Episode: 6500, Average Reward: 454.831, Average Steps: 994.882
+Episode: 7000, Average Reward: 438.901, Average Steps: 963.39
+Episode: 7500, Average Reward: 466.169, Average Steps: 1017.362
+Episode: 8000, Average Reward: 458.697, Average Steps: 1002.706
+Episode: 8500, Average Reward: 466.212, Average Steps: 1017.436
+Episode: 9000, Average Reward: 462.223, Average Steps: 1009.518
+Episode: 9500, Average Reward: 558.012, Average Steps: 1199.288
+Training Finished... 20  **** BAD
+   
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.8, Min Epsilon: 0.001, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9993317621976288
+Episode: 0, Average Reward: 1.772, Average Steps: 3.7
+Episode: 500, Average Reward: 459.962, Average Steps: 1005.052
+Episode: 1000, Average Reward: 445.214, Average Steps: 975.904
+Episode: 1500, Average Reward: 439.705, Average Steps: 965.018
+Episode: 2000, Average Reward: 435.111, Average Steps: 955.954
+Episode: 2500, Average Reward: 452.789, Average Steps: 990.898
+Episode: 3000, Average Reward: 454.718, Average Steps: 994.756
+Episode: 3500, Average Reward: 453.814, Average Steps: 993.024
+Episode: 4000, Average Reward: 485.472, Average Steps: 1055.716
+Episode: 4500, Average Reward: 511.513, Average Steps: 1107.278
+Episode: 5000, Average Reward: 501.731, Average Steps: 1087.79
+Episode: 5500, Average Reward: 560.537, Average Steps: 1204.25
+Episode: 6000, Average Reward: 487.976, Average Steps: 1060.608
+Episode: 6500, Average Reward: 500.439, Average Steps: 1085.374
+Episode: 7000, Average Reward: 556.538, Average Steps: 1196.292
+Episode: 7500, Average Reward: 496.722, Average Steps: 1078.032
+Episode: 8000, Average Reward: 650.985, Average Steps: 1383.482
+Episode: 8500, Average Reward: 635.444, Average Steps: 1352.5
+Episode: 9000, Average Reward: 571.852, Average Steps: 1226.684
+Episode: 9500, Average Reward: 715.342, Average Steps: 1510.488
+Training Finished... 20  **** GOOD
+
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.7, Min Epsilon: 0.1, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.999805427916698
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
+Episode: 500, Average Reward: 468.434, Average Steps: 1021.736
+Episode: 1000, Average Reward: 470.305, Average Steps: 1025.542
+Episode: 1500, Average Reward: 455.418, Average Steps: 996.052
+Episode: 2000, Average Reward: 457.19, Average Steps: 999.6
+Episode: 2500, Average Reward: 440.612, Average Steps: 966.808
+Episode: 3000, Average Reward: 436.938, Average Steps: 959.572
+Episode: 3500, Average Reward: 448.025, Average Steps: 981.466
+Episode: 4000, Average Reward: 448.107, Average Steps: 981.682
+Episode: 4500, Average Reward: 441.542, Average Steps: 968.68
+Episode: 5000, Average Reward: 442.522, Average Steps: 970.604
+Episode: 5500, Average Reward: 434.201, Average Steps: 954.19
+Episode: 6000, Average Reward: 429.507, Average Steps: 944.886
+Episode: 6500, Average Reward: 445.39, Average Steps: 976.312
+Episode: 7000, Average Reward: 430.414, Average Steps: 946.668
+Episode: 7500, Average Reward: 432.379, Average Steps: 950.582
+Episode: 8000, Average Reward: 438.887, Average Steps: 963.466
+Episode: 8500, Average Reward: 448.321, Average Steps: 982.166
+Episode: 9000, Average Reward: 466.074, Average Steps: 1017.296
+Episode: 9500, Average Reward: 466.926, Average Steps: 1018.928
+Training Finished... 20  **** BAD
+
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.7, Min Epsilon: 0.05, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9997361290870933
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
+Episode: 500, Average Reward: 504.356, Average Steps: 1092.78
+Episode: 1000, Average Reward: 447.981, Average Steps: 981.394
+Episode: 1500, Average Reward: 442.44, Average Steps: 970.436
+Episode: 2000, Average Reward: 443.395, Average Steps: 972.342
+Episode: 2500, Average Reward: 443.41, Average Steps: 972.36
+Episode: 3000, Average Reward: 433.226, Average Steps: 952.244
+Episode: 3500, Average Reward: 432.283, Average Steps: 950.378
+Episode: 4000, Average Reward: 432.33, Average Steps: 950.46
+Episode: 4500, Average Reward: 438.877, Average Steps: 963.426
+Episode: 5000, Average Reward: 448.169, Average Steps: 981.822
+Episode: 5500, Average Reward: 435.172, Average Steps: 956.116
+Episode: 6000, Average Reward: 447.239, Average Steps: 979.994
+Episode: 6500, Average Reward: 451.994, Average Steps: 989.436
+Episode: 7000, Average Reward: 466.94, Average Steps: 1019.0
+Episode: 7500, Average Reward: 449.151, Average Steps: 983.79
+Episode: 8000, Average Reward: 471.438, Average Steps: 1027.904
+Episode: 8500, Average Reward: 472.482, Average Steps: 1030.012
+Episode: 9000, Average Reward: 482.78, Average Steps: 1050.412
+Episode: 9500, Average Reward: 488.236, Average Steps: 1061.12
+Training Finished... 20  **** BAD
+
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.7, Min Epsilon: 0.01, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9995752407115749
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
+Episode: 500, Average Reward: 493.446, Average Steps: 1071.176
+Episode: 1000, Average Reward: 452.659, Average Steps: 990.642
+Episode: 1500, Average Reward: 451.753, Average Steps: 988.87
+Episode: 2000, Average Reward: 431.35, Average Steps: 948.524
+Episode: 2500, Average Reward: 433.175, Average Steps: 952.122
+Episode: 3000, Average Reward: 437.007, Average Steps: 959.726
+Episode: 3500, Average Reward: 451.092, Average Steps: 987.592
+Episode: 4000, Average Reward: 466.018, Average Steps: 1017.236
+Episode: 4500, Average Reward: 451.899, Average Steps: 989.23
+Episode: 5000, Average Reward: 482.804, Average Steps: 1050.38
+Episode: 5500, Average Reward: 479.792, Average Steps: 1044.416
+Episode: 6000, Average Reward: 552.183, Average Steps: 1187.69
+Episode: 6500, Average Reward: 514.13, Average Steps: 1112.404
+Episode: 7000, Average Reward: 524.19, Average Steps: 1132.272
+Episode: 7500, Average Reward: 522.794, Average Steps: 1129.496
+Episode: 8000, Average Reward: 513.283, Average Steps: 1110.714
+Episode: 8500, Average Reward: 496.687, Average Steps: 1077.83
+Episode: 9000, Average Reward: 575.965, Average Steps: 1234.582
+Episode: 9500, Average Reward: 653.098, Average Steps: 1387.088
+Training Finished... 20  **** BETTER
+
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.7, Min Epsilon: 0.005, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9995059578367784
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
+Episode: 500, Average Reward: 505.307, Average Steps: 1094.734
+Episode: 1000, Average Reward: 472.071, Average Steps: 1028.974
+Episode: 1500, Average Reward: 437.85, Average Steps: 961.38
+Episode: 2000, Average Reward: 439.676, Average Steps: 965.004
+Episode: 2500, Average Reward: 440.712, Average Steps: 967.0
+Episode: 3000, Average Reward: 447.31, Average Steps: 980.14
+Episode: 3500, Average Reward: 456.603, Average Steps: 998.558
+Episode: 4000, Average Reward: 462.045, Average Steps: 1009.294
+Episode: 4500, Average Reward: 480.748, Average Steps: 1046.34
+Episode: 5000, Average Reward: 502.811, Average Steps: 1089.954
+Episode: 5500, Average Reward: 514.75, Average Steps: 1113.572
+Episode: 6000, Average Reward: 542.879, Average Steps: 1169.31
+Episode: 6500, Average Reward: 556.911, Average Steps: 1197.09
+Episode: 7000, Average Reward: 532.423, Average Steps: 1148.518
+Episode: 7500, Average Reward: 550.24, Average Steps: 1183.756
+Episode: 8000, Average Reward: 602.52, Average Steps: 1287.328
+Episode: 8500, Average Reward: 552.106, Average Steps: 1187.468
+Episode: 9000, Average Reward: 632.644, Average Steps: 1346.736
+Episode: 9500, Average Reward: 648.523, Average Steps: 1378.358
+Training Finished... 20  **** BETTER
+
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.7, Min Epsilon: 0.001, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9993451065029128
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
+Episode: 500, Average Reward: 475.764, Average Steps: 1036.224
+Episode: 1000, Average Reward: 432.262, Average Steps: 950.304
+Episode: 1500, Average Reward: 435.037, Average Steps: 955.786
+Episode: 2000, Average Reward: 428.594, Average Steps: 943.048
+Episode: 2500, Average Reward: 441.713, Average Steps: 968.97
+Episode: 3000, Average Reward: 445.491, Average Steps: 976.454
+Episode: 3500, Average Reward: 475.344, Average Steps: 1035.352
+Episode: 4000, Average Reward: 491.35, Average Steps: 1066.94
+Episode: 4500, Average Reward: 550.036, Average Steps: 1182.632
+Episode: 5000, Average Reward: 583.41, Average Steps: 1248.684
+Episode: 5500, Average Reward: 557.636, Average Steps: 1197.736
+Episode: 6000, Average Reward: 642.158, Average Steps: 1364.736
+Episode: 6500, Average Reward: 671.163, Average Steps: 1422.058
+Episode: 7000, Average Reward: 816.814, Average Steps: 1709.796
+Episode: 7500, Average Reward: 630.462, Average Steps: 1341.612
+Episode: 8000, Average Reward: 724.601, Average Steps: 1527.114
+Episode: 8500, Average Reward: 848.413, Average Steps: 1771.53
+Episode: 9000, Average Reward: 951.928, Average Steps: 1976.704
+Episode: 9500, Average Reward: 767.409, Average Steps: 1611.71
+Training Finished... 20  **** BEST
+
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.6, Min Epsilon: 0.1, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9998208401041285
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
+Episode: 500, Average Reward: 475.871, Average Steps: 1036.478
+Episode: 1000, Average Reward: 456.345, Average Steps: 997.906
+Episode: 1500, Average Reward: 435.983, Average Steps: 957.674
+Episode: 2000, Average Reward: 444.368, Average Steps: 974.276
+Episode: 2500, Average Reward: 433.168, Average Steps: 952.12
+Episode: 3000, Average Reward: 428.567, Average Steps: 943.006
+Episode: 3500, Average Reward: 429.506, Average Steps: 944.864
+Episode: 4000, Average Reward: 430.452, Average Steps: 946.756
+Episode: 4500, Average Reward: 428.591, Average Steps: 943.074
+Episode: 5000, Average Reward: 427.695, Average Steps: 941.306
+Episode: 5500, Average Reward: 423.0, Average Steps: 932.0
+Episode: 6000, Average Reward: 435.149, Average Steps: 956.062
+Episode: 6500, Average Reward: 431.411, Average Steps: 948.662
+Episode: 7000, Average Reward: 435.16, Average Steps: 956.064
+Episode: 7500, Average Reward: 433.263, Average Steps: 952.326
+Episode: 8000, Average Reward: 439.839, Average Steps: 965.326
+Episode: 8500, Average Reward: 432.347, Average Steps: 950.502
+Episode: 9000, Average Reward: 451.986, Average Steps: 989.396
+Episode: 9500, Average Reward: 437.989, Average Steps: 961.706
+Training Finished... 20  **** BAD
+
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.6, Min Epsilon: 0.05, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9997515402062693
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
+Episode: 500, Average Reward: 559.878, Average Steps: 1202.6
+Episode: 1000, Average Reward: 567.208, Average Steps: 1217.248
+Episode: 1500, Average Reward: 542.504, Average Steps: 1168.488
+Episode: 2000, Average Reward: 455.39, Average Steps: 996.124
+Episode: 2500, Average Reward: 448.158, Average Steps: 981.82
+Episode: 3000, Average Reward: 452.837, Average Steps: 990.986
+Episode: 3500, Average Reward: 446.309, Average Steps: 978.126
+Episode: 4000, Average Reward: 430.434, Average Steps: 946.704
+Episode: 4500, Average Reward: 446.394, Average Steps: 978.3
+Episode: 5000, Average Reward: 458.591, Average Steps: 1002.366
+Episode: 5500, Average Reward: 463.17, Average Steps: 1011.528
+Episode: 6000, Average Reward: 465.956, Average Steps: 1017.064
+Episode: 6500, Average Reward: 464.946, Average Steps: 1015.004
+Episode: 7000, Average Reward: 511.674, Average Steps: 1107.608
+Episode: 7500, Average Reward: 507.826, Average Steps: 1099.888
+Episode: 8000, Average Reward: 517.205, Average Steps: 1118.542
+Episode: 8500, Average Reward: 540.339, Average Steps: 1164.314
+Episode: 9000, Average Reward: 516.109, Average Steps: 1116.306
+Episode: 9500, Average Reward: 557.899, Average Steps: 1199.022
+Training Finished... 20  **** BAD
+
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.6, Min Epsilon: 0.01, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9995906493506266
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
+Episode: 500, Average Reward: 446.132, Average Steps: 977.744
+Episode: 1000, Average Reward: 441.581, Average Steps: 968.726
+Episode: 1500, Average Reward: 435.998, Average Steps: 957.7
+Episode: 2000, Average Reward: 450.869, Average Steps: 987.034
+Episode: 2500, Average Reward: 448.072, Average Steps: 981.528
+Episode: 3000, Average Reward: 431.383, Average Steps: 948.554
+Episode: 3500, Average Reward: 471.62, Average Steps: 1028.22
+Episode: 4000, Average Reward: 457.547, Average Steps: 1000.354
+Episode: 4500, Average Reward: 446.23, Average Steps: 977.988
+Episode: 5000, Average Reward: 480.752, Average Steps: 1046.3
+Episode: 5500, Average Reward: 488.988, Average Steps: 1062.64
+Episode: 6000, Average Reward: 479.87, Average Steps: 1044.584
+Episode: 6500, Average Reward: 484.255, Average Steps: 1053.218
+Episode: 7000, Average Reward: 534.283, Average Steps: 1152.186
+Episode: 7500, Average Reward: 527.365, Average Steps: 1138.55
+Episode: 8000, Average Reward: 524.87, Average Steps: 1133.524
+Episode: 8500, Average Reward: 587.105, Average Steps: 1256.726
+Episode: 9000, Average Reward: 581.547, Average Steps: 1245.734
+Episode: 9500, Average Reward: 506.067, Average Steps: 1096.354
+Training Finished... 20  **** BAD
+
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.6, Min Epsilon: 0.005, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9995213654078217
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
+Episode: 500, Average Reward: 533.103, Average Steps: 1149.654
+Episode: 1000, Average Reward: 533.167, Average Steps: 1149.77
+Episode: 1500, Average Reward: 536.997, Average Steps: 1157.366
+Episode: 2000, Average Reward: 482.499, Average Steps: 1049.622
+Episode: 2500, Average Reward: 469.657, Average Steps: 1024.286
+Episode: 3000, Average Reward: 528.396, Average Steps: 1140.224
+Episode: 3500, Average Reward: 546.733, Average Steps: 1176.538
+Episode: 4000, Average Reward: 593.189, Average Steps: 1268.27
+Episode: 4500, Average Reward: 587.437, Average Steps: 1257.126
+Episode: 5000, Average Reward: 607.201, Average Steps: 1296.122
+Episode: 5500, Average Reward: 630.718, Average Steps: 1342.748
+Episode: 6000, Average Reward: 714.559, Average Steps: 1507.934
+Episode: 6500, Average Reward: 758.571, Average Steps: 1594.89
+Episode: 7000, Average Reward: 861.685, Average Steps: 1798.198
+Episode: 7500, Average Reward: 937.256, Average Steps: 1947.052
+Episode: 8000, Average Reward: 998.224, Average Steps: 2067.152
+Episode: 8500, Average Reward: 971.845, Average Steps: 2014.83
+Episode: 9000, Average Reward: 1041.447, Average Steps: 2152.266
+Episode: 9500, Average Reward: 1042.451, Average Steps: 2153.73
+Training Finished... 20  **** BEST
+
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.6, Min Epsilon: 0.001, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9993605115944026
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
+Episode: 500, Average Reward: 508.312, Average Steps: 1100.568
+Episode: 1000, Average Reward: 454.452, Average Steps: 994.172
+Episode: 1500, Average Reward: 434.166, Average Steps: 954.088
+Episode: 2000, Average Reward: 451.079, Average Steps: 987.558
+Episode: 2500, Average Reward: 450.061, Average Steps: 985.594
+Episode: 3000, Average Reward: 453.815, Average Steps: 993.038
+Episode: 3500, Average Reward: 495.626, Average Steps: 1075.78
+Episode: 4000, Average Reward: 540.353, Average Steps: 1164.226
+Episode: 4500, Average Reward: 530.858, Average Steps: 1145.34
+Episode: 5000, Average Reward: 595.203, Average Steps: 1272.666
+Episode: 5500, Average Reward: 574.576, Average Steps: 1231.856
+Episode: 6000, Average Reward: 664.255, Average Steps: 1409.266
+Episode: 6500, Average Reward: 685.09, Average Steps: 1450.496
+Episode: 7000, Average Reward: 721.093, Average Steps: 1521.634
+Episode: 7500, Average Reward: 646.959, Average Steps: 1374.398
+Episode: 8000, Average Reward: 650.625, Average Steps: 1382.19
+Episode: 8500, Average Reward: 661.245, Average Steps: 1403.506
+Episode: 9000, Average Reward: 852.873, Average Steps: 1783.082
+Episode: 9500, Average Reward: 757.171, Average Steps: 1593.558
+Training Finished... 20  **** GOOD
+
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.5, Min Epsilon: 0.1, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9998390691595138
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
+Episode: 500, Average Reward: 495.278, Average Steps: 1074.868
+Episode: 1000, Average Reward: 450.819, Average Steps: 987.022
+Episode: 1500, Average Reward: 441.523, Average Steps: 968.646
+Episode: 2000, Average Reward: 443.462, Average Steps: 972.496
+Episode: 2500, Average Reward: 447.164, Average Steps: 979.76
+Episode: 3000, Average Reward: 452.798, Average Steps: 991.008
+Episode: 3500, Average Reward: 457.518, Average Steps: 1000.324
+Episode: 4000, Average Reward: 447.147, Average Steps: 979.77
+Episode: 4500, Average Reward: 460.25, Average Steps: 1005.716
+Episode: 5000, Average Reward: 472.206, Average Steps: 1029.36
+Episode: 5500, Average Reward: 456.552, Average Steps: 998.424
+Episode: 6000, Average Reward: 478.117, Average Steps: 1041.082
+Episode: 6500, Average Reward: 474.274, Average Steps: 1033.552
+Episode: 7000, Average Reward: 467.807, Average Steps: 1020.778
+Episode: 7500, Average Reward: 471.404, Average Steps: 1027.8
+Episode: 8000, Average Reward: 507.165, Average Steps: 1098.626
+Episode: 8500, Average Reward: 514.413, Average Steps: 1113.018
+Episode: 9000, Average Reward: 504.067, Average Steps: 1092.366
+Episode: 9500, Average Reward: 521.837, Average Steps: 1127.762
+Training Finished... 20  **** BAD
+
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.5, Min Epsilon: 0.05, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9997697679981565
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
+Episode: 500, Average Reward: 475.787, Average Steps: 1036.278
+Episode: 1000, Average Reward: 445.234, Average Steps: 975.952
+Episode: 1500, Average Reward: 446.2, Average Steps: 977.872
+Episode: 2000, Average Reward: 436.948, Average Steps: 959.564
+Episode: 2500, Average Reward: 434.158, Average Steps: 954.076
+Episode: 3000, Average Reward: 435.998, Average Steps: 957.704
+Episode: 3500, Average Reward: 448.277, Average Steps: 981.974
+Episode: 4000, Average Reward: 441.693, Average Steps: 968.93
+Episode: 4500, Average Reward: 444.47, Average Steps: 974.472
+Episode: 5000, Average Reward: 469.773, Average Steps: 1024.514
+Episode: 5500, Average Reward: 441.659, Average Steps: 968.922
+Episode: 6000, Average Reward: 451.906, Average Steps: 989.16
+Episode: 6500, Average Reward: 462.25, Average Steps: 1009.66
+Episode: 7000, Average Reward: 480.785, Average Steps: 1046.394
+Episode: 7500, Average Reward: 465.935, Average Steps: 1017.034
+Episode: 8000, Average Reward: 452.905, Average Steps: 991.214
+Episode: 8500, Average Reward: 496.774, Average Steps: 1078.128
+Episode: 9000, Average Reward: 496.793, Average Steps: 1078.174
+Episode: 9500, Average Reward: 503.206, Average Steps: 1090.792
+Training Finished... 20
+
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.5, Min Epsilon: 0.01, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9996088742090999
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
+Episode: 500, Average Reward: 451.701, Average Steps: 988.73
+Episode: 1000, Average Reward: 436.892, Average Steps: 959.492
+Episode: 1500, Average Reward: 435.961, Average Steps: 957.638
+Episode: 2000, Average Reward: 437.872, Average Steps: 961.432
+Episode: 2500, Average Reward: 434.195, Average Steps: 954.166
+Episode: 3000, Average Reward: 450.095, Average Steps: 985.674
+Episode: 3500, Average Reward: 445.33, Average Steps: 976.208
+Episode: 4000, Average Reward: 472.299, Average Steps: 1029.59
+Episode: 4500, Average Reward: 484.541, Average Steps: 1053.858
+Episode: 5000, Average Reward: 481.459, Average Steps: 1047.694
+Episode: 5500, Average Reward: 490.886, Average Steps: 1066.376
+Episode: 6000, Average Reward: 514.099, Average Steps: 1112.354
+Episode: 6500, Average Reward: 514.021, Average Steps: 1112.094
+Episode: 7000, Average Reward: 496.531, Average Steps: 1077.43
+Episode: 7500, Average Reward: 535.434, Average Steps: 1154.464
+Episode: 8000, Average Reward: 601.146, Average Steps: 1284.404
+Episode: 8500, Average Reward: 603.016, Average Steps: 1288.04
+Episode: 9000, Average Reward: 621.752, Average Steps: 1325.22
+Episode: 9500, Average Reward: 544.348, Average Steps: 1172.136
+Training Finished... 20
+
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.5, Min Epsilon: 0.005, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9995395890030878
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
+Episode: 500, Average Reward: 522.333, Average Steps: 1128.266
+Episode: 1000, Average Reward: 433.21, Average Steps: 952.196
+Episode: 1500, Average Reward: 425.763, Average Steps: 937.466
+Episode: 2000, Average Reward: 423.932, Average Steps: 933.844
+Episode: 2500, Average Reward: 423.94, Average Steps: 933.864
+Episode: 3000, Average Reward: 429.564, Average Steps: 945.008
+Episode: 3500, Average Reward: 435.188, Average Steps: 956.152
+Episode: 4000, Average Reward: 450.226, Average Steps: 985.916
+Episode: 4500, Average Reward: 464.229, Average Steps: 1013.678
+Episode: 5000, Average Reward: 501.646, Average Steps: 1087.62
+Episode: 5500, Average Reward: 508.179, Average Steps: 1100.462
+Episode: 6000, Average Reward: 574.248, Average Steps: 1231.232
+Episode: 6500, Average Reward: 498.838, Average Steps: 1082.192
+Episode: 7000, Average Reward: 522.99, Average Steps: 1130.064
+Episode: 7500, Average Reward: 559.45, Average Steps: 1202.26
+Episode: 8000, Average Reward: 609.599, Average Steps: 1301.558
+Episode: 8500, Average Reward: 641.358, Average Steps: 1364.616
+Episode: 9000, Average Reward: 713.357, Average Steps: 1506.842
+Episode: 9500, Average Reward: 654.098, Average Steps: 1389.544
+Training Finished... 20  **** BETTER
+
+Init Alpha: 0.1, Min Alpha: 0.001, Init Epsilon: 0.5, Min Epsilon: 0.001, Alpha Decay: 0.9995395890030878, Epsilon Decay: 0.9993787322569303
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
+Episode: 500, Average Reward: 483.27, Average Steps: 1051.152
+Episode: 1000, Average Reward: 436.008, Average Steps: 957.716
+Episode: 1500, Average Reward: 434.243, Average Steps: 954.278
+Episode: 2000, Average Reward: 455.656, Average Steps: 996.7
+Episode: 2500, Average Reward: 471.43, Average Steps: 1027.948
+Episode: 3000, Average Reward: 495.11, Average Steps: 1074.756
+Episode: 3500, Average Reward: 534.47, Average Steps: 1152.824
+Episode: 4000, Average Reward: 539.938, Average Steps: 1163.652
+Episode: 4500, Average Reward: 603.021, Average Steps: 1288.53
+Episode: 5000, Average Reward: 656.645, Average Steps: 1394.266
+Episode: 5500, Average Reward: 725.741, Average Steps: 1530.982
+Episode: 6000, Average Reward: 723.102, Average Steps: 1525.464
+Episode: 6500, Average Reward: 828.617, Average Steps: 1733.97
+Episode: 7000, Average Reward: 711.59, Average Steps: 1502.66
+Episode: 7500, Average Reward: 822.386, Average Steps: 1721.128
+Episode: 8000, Average Reward: 740.021, Average Steps: 1559.002
+Episode: 8500, Average Reward: 869.224, Average Steps: 1814.064
+Episode: 9000, Average Reward: 713.687, Average Steps: 1506.69
+Episode: 9500, Average Reward: 768.196, Average Steps: 1613.956
+Training Finished... 20  **** BETTER
+
+Init Alpha: 0.1, Min Alpha: 0.0005, Init Epsilon: 0.9, Min Epsilon: 0.1, Alpha Decay: 0.9994703085993939, Epsilon Decay: 0.9997803016794777
+Episode: 0, Average Reward: 0.846, Average Steps: 1.864
