@@ -291,9 +291,9 @@ if __name__ == "__main__":
                       steps_file=file_name + '_steps.csv', epsilon_file=file_name + '_epsilon.csv', alpha_file=file_name + '_alpha.csv')
     plot.plot_learning_curve(output_filename=file_name + '_Learning_Curve.png',file_name=file_name  + '_rewards.csv')
     
-    test_decision = input("Training completed. Would you like to start testing the agent? (yes/no): ")
-    if test_decision.lower() == 'yes':
-        test_agent(env, agent)
-    else:
-        print("Testing aborted.")
+    # test_decision = input("Training completed. Would you like to start testing the agent? (yes/no): ")
+    # if test_decision.lower() == 'yes':
+    #     test_agent(env, agent)
+    # else:
+    #     print("Testing aborted.")
     

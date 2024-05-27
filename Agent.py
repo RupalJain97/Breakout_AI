@@ -253,7 +253,7 @@ if __name__ == "__main__":
     file_name = 'Q-Learning(' + str(initial_alpha) + ',' + str(min_alpha) + ',' + str(
         initial_epsilon) + ',' + str(min_epsilon) + ',' + str(discount_factor) + ')'
 
-    # alpha_history, epsilon_history, reward_history, steps_history = agent.train(file_name=file_name)
+    alpha_history, epsilon_history, reward_history, steps_history = agent.train(file_name=file_name)
 
     # Plot the learning curves and metrics
     plot = plotting()
@@ -262,8 +262,8 @@ if __name__ == "__main__":
     plot.plot_learning_curve(output_filename=file_name + '_Learning_Curve.png',
                              file_name=file_name + '_rewards.csv')
 
-    test_decision = input("Training completed. Would you like to start testing the agent? (yes/no): ")
-    if test_decision.lower() == 'yes':
-        agent.test()
-    else:
-        print("Testing aborted.")
+    # test_decision = input("Training completed. Would you like to start testing the agent? (yes/no): ")
+    # if test_decision.lower() == 'yes':
+    #     agent.test()
+    # else:
+    #     print("Testing aborted.")
